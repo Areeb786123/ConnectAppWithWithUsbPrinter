@@ -1,2 +1,8 @@
 
-[kotlin:S6619S"7Remove this useless non-null check, it always succeeds.(Ê„ëàúÿÿÿÿ8¦ÚêËß1
+[kotlin:S6619o"7Remove this useless non-null check, it always succeeds.(Ê„ëàúÿÿÿÿ8›ü•Ğß1
+[kotlin:S66194"7Remove this useless non-null check, it always succeeds.(ÛÔÔÎùÿÿÿÿ8›ü•Ğß1
+wkotlin:S117­"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ÚÃé³üÿÿÿÿ8†‹ÕĞß1
+<kotlin:S6310›"Avoid hardcoded dispatchers.(ÊüÀæ8€ßÉĞß1
+Lkotlin:S1125Ú"'Remove the unnecessary Boolean literal.(ÓÄÅıÿÿÿÿ8¢ü•Ğß1
+Hkotlin:S1874Ğ"#Deprecated code should not be used.(±İ­Úûÿÿÿÿ8¤ü•Ğß1
+vkotlin:S3776e"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(À™ìÆÿÿÿÿÿ8¥ü•Ğß1
